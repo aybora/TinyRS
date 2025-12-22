@@ -254,7 +254,7 @@ If you find this code useful for your research, consider citing our works:
 ```
 
 ```bibtex
-@ARTICLE{11267210,
+@ARTICLE{koksal2025samchat,
   author={Köksal, Aybora and Alatan, A. Aydın},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={SAMChat: Introducing Chain-of-Thought Reasoning and GRPO to a Multimodal Small Language Model for Small-Scale Remote Sensing}, 
