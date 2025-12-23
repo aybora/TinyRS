@@ -115,7 +115,7 @@ setup(
     author="The Hugging Face team (past and future)",
     author_email="lewis@huggingface.co",
     description="Open R1",
-    long_description=open("README.md", "r", encoding="utf-8").read(),
+    long_description=open("../README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     keywords="llm inference-time compute reasoning",
     license="Apache",
