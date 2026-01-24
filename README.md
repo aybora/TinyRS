@@ -87,6 +87,7 @@ For SFT:
 
 ```shell
 git clone https://github.com/aybora/TinyRS
+cd ~/TinyRS/grpo
 conda env create -f environment.yaml
 conda activate sft
 pip install qwen-vl-utils
