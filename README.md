@@ -255,16 +255,14 @@ If you find this code useful for your research, consider citing our works:
 ```
 
 ```bibtex
-@ARTICLE{koksal2025samchat,
-  author={Köksal, Aybora and Alatan, A. Aydın},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={SAMChat: Introducing Chain-of-Thought Reasoning and GRPO to a Multimodal Small Language Model for Small-Scale Remote Sensing}, 
-  year={2026},
+@article{koksal2025samchat,
+  title={SAMChat: Introducing Chain-of-Thought Reasoning and GRPO to a Multimodal Small Language Model for Small-Scale Remote Sensing},
+  author={K{\"o}ksal, Aybora and Alatan, A Ayd{\i}n},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   volume={19},
-  number={},
-  pages={795-804},
-  keywords={Cognition;Adaptation models;Computational modeling;Remote sensing;Visualization;Missiles;Satellite images;Mathematical models;Large language models;Analytical models;Aerial image analysis;chain-of-thought (CoT) reasoning;domain adaptation;group relative policy optimization (GRPO);multimodal large language models (MLLMs);remote sensing (RS)},
-  doi={10.1109/JSTARS.2025.3637115}}
+  pages={795--804},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
